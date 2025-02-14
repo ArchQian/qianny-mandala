@@ -1,2 +1,2 @@
 # qianny-mandala
-Blog,UI design
+Blog,UI design,Product design
